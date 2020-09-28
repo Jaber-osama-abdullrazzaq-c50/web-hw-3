@@ -1,0 +1,68 @@
+
+.Mc{
+
+    
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+  align-self: center;
+  background-color: #9bf6ff;
+  padding: 30px;
+  height: 30px;
+  width: 100px;
+  margin-top: 90px;
+  border-radius: 100px;
+}
+
+
+
+
+.Br{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+  align-self: center;
+  background-color: #a0c4ff;
+  padding: 30px;
+  height: 30px;
+  width: 60px;
+  margin-top: 10px;
+  border-radius: 100px;
+}
+
+
+.Tgi{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+  align-self: center;
+  background-color: #ffd6a5;
+  padding: 30px;
+  height: 30px;
+  width: 60px;
+  margin-top: 10px;
+  border-radius: 100px;
+}
+
+
+
+.Kfc{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+  align-self: center;
+  background-color: #caffbf;
+  padding: 30px;
+  height: 30px;
+  width: 50px;
+  margin-top: 10px;
+  border-radius: 100px;
+}
+
+
+
+
+p{
+    font-family: 'Bungee Shade', cursive;
+
+}
